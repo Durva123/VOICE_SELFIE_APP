@@ -1,0 +1,46 @@
+.start
+{
+    width:60px;
+    background-color:rgb(75, 39, 39);
+    color:peru;
+    font-weight: bolder;
+  
+} 
+
+.start:hover{
+    background-color:rgb(50, 107, 16);
+    }
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+.head{
+    font-family:penultimate;
+    font-size:50px;
+    color:peru;
+    background-color:rgb(75, 39, 39);
+    width:350px;
+    height:60px;
+    box-shadow:1px 1px 20px rgb(0, 0, 0);
+}
+
+.note{
+    font-weight:bold;
+}
+
+body{
+    background-color:rgb(172, 146, 115);
+}
